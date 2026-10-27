@@ -1,2 +1,2 @@
 # sprooma
-blogs
+
